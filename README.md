@@ -16,7 +16,41 @@
 * **Banco de Dados:** [nao sei]
 ---
 
-# Personas 
+# Personas:
+
+* **Persona 1**
+**[Maria]
+-- 42 anos
+-- Precisa resolver um problema trabalhista.
+-- Nunca entrou na Justiça.
+-- Não entende termos jurídicos.
+-- Quer alguém de confiança.
+
+* **Persona 2**
+---[Carlos]
+-- Advogado autônomo
+-- Atua há 8 anos
+-- Recebe muitas mensagens perguntando o significado de movimentações simples.
+Gostaria de economizar tempo.
+
+# Dores do Cliente:
+
+* **Hoje o cidadão enfrenta problemas como:**
+-- Não sabe qual advogado contratar.
+-- Não entende termos jurídicos.
+-- Fica ansioso quando vê movimentações no processo.
+-- Precisa ligar constantemente para o advogado.
+-- Não sabe em qual etapa está seu processo.
+-- Tem dificuldade em enviar documentos organizadamente.
+
+# Solução: 
+
+* **A plataforma oferece:**
+-- conexão entre clientes e advogados;
+-- tradução automática dos andamentos processuais;
+-- acompanhamento do processo em linguagem simples;
+-- compartilhamento seguro de documentos;
+-- notificações sobre mudanças no processo.
 
 
 # Requisitos do Sistema

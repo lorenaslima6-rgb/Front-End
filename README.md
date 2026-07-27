@@ -1,9 +1,10 @@
 # Front-End
 
 > Descrição:
-> Direito - Conexão e Descomplicação Jurídica
+
+> "Direito - Conexão e Descomplicação Jurídica
 Descrição resumida:
-Pessoas enfrentam grande dificuldade para encontrar advogados de confiança e não compreendem o vocabulário dos processos. A demanda visa criar uma plataforma que conecte cidadãos a advogados especialistas, oferecendo um diferencial: uma ferramenta inteligente que traduz os andamentos processuais para uma linguagem simples e acessível, garantindo transparência, reduzindo a ansiedade do cliente e otimizando o tempo do profissional jurídico na explicação de trâmites básicos.
+Pessoas enfrentam grande dificuldade para encontrar advogados de confiança e não compreendem o vocabulário dos processos. A demanda visa criar uma plataforma que conecte cidadãos a advogados especialistas, oferecendo um diferencial: uma ferramenta inteligente que traduz os andamentos processuais para uma linguagem simples e acessível, garantindo transparência, reduzindo a ansiedade do cliente e otimizando o tempo do profissional jurídico na explicação de trâmites básicos." -(SC) SENAI/SC - Joinville Sul.
 
 
 ## Equipe

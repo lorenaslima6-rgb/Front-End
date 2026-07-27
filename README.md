@@ -1,19 +1,16 @@
 # Front-End
 
 > Descrição
-## Nossa Equipe
-**sem nome aindaaassss:** [nao sei]
+## Equipe
+**Nome:** [nao sei]
+
+## Projeto
+**Nome:** ADVOX (pode mudar)
 
 ### Integrantes:
-* **[Lorena da Silva Lima]** - [funcao]
-* **[Nicole Vitória Santos Barbosa]** - [funcao]
-* **[Sofia Marques]** - [funcao]
----
-
-## Sobre:
-* **Linguagem:** [nao sei]
-* **Frameworks:** [nao sei]
-* **Banco de Dados:** [nao sei]
+* **[Lorena da Silva Lima]** - [Design/Front]
+* **[Nicole Vitória Santos Barbosa]** - [Design/Front]
+* **[Sofia Marques]** - [Back/Banco de dados]
 ---
 
 # Personas:

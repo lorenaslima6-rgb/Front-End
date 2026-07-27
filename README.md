@@ -32,17 +32,17 @@ Gostaria de economizar tempo.
 
 # Dores do Cliente:
 
-* **Hoje o cidadão enfrenta problemas como:**
+* **O cidadão enfrenta problemas como:**
 -- Não sabe qual advogado contratar.
--- Não entende termos jurídicos.
+-- Não entende os termos jurídicos.
 -- Fica ansioso quando vê movimentações no processo.
 -- Precisa ligar constantemente para o advogado.
 -- Não sabe em qual etapa está seu processo.
 -- Tem dificuldade em enviar documentos organizadamente.
 
-# Solução: 
+# Solução!!!: 
 
-* **A plataforma oferece:**
+* **Plataforma oferece:**
 -- conexão entre clientes e advogados;
 -- tradução automática dos andamentos processuais;
 -- acompanhamento do processo em linguagem simples;
